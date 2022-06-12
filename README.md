@@ -148,7 +148,7 @@ To understand the analogies that I make in my descriptions, below you'll find th
 ```                              
    Many online resources may swap this, going from left to right, in it's physical state the Enigma circuit enters from the rightmost side, so I've put it in that same order.
    
-   With that being said if you choose to swap out the rotors, you can follow the ascending order in the wikipedia table with the variables above.
+   With that being said if you choose to swap out the rotors, you can follow the ascending order in the [wikipedia table](https://en.wikipedia.org/wiki/Enigma_rotor_details#Rotor_wiring_tables) with the variables above.
    
    The order of the wheels in the article are just what they used historically in those machines, though you can use any variation/combination from each era in this program. (ex. Rotor I from the German railway as `ROTOR$(1)`, Rotor VIII from the M3 & M4 as `ROTOR$(2)`, and so on.)
    
